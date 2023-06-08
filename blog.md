@@ -1,6 +1,5 @@
 # Nuestro camino hacia Google Cloud Associate Cloud Engineer (GCP ACE)
 
-
 <img src="https://github.com/Ardark27/Google-Cloud-Associate-Cloud-Engineer-Path/blob/main/cert_logo.png?raw=true"
      alt="Logo certificación GCP ACE"
      style="float: centered; margin-right: 10px;"
@@ -152,3 +151,13 @@ gcloud config configurations activate [configuration name]
 ## ¡Adiós!
 
 ¡Muchas gracias por leernos! esperamos que estos consejos te sirvan a la hora de prepararte el certificado :) 
+
+
+## Agradecimiento Especial
+
+Le damos las gracias a Lucas Calvo por ser un máquina y respondernos todas las dudas que hemos tenido, que hemos sido mu pesaos y él un encanto.
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNiYjliYjQzNzg5ZGI4N2FmOGQ4MWY4OGJmYTA0ZjZhNjQ0ODVkMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3KC2jD2QcBOSc/giphy.gif"
+     alt="Cosa graciosa"
+     style="float: centered; margin-right: 10px;"
+     width="100%" height="100%" />
