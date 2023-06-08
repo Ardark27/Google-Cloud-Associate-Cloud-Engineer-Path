@@ -1,8 +1,8 @@
 # Nuestro camino al Google Cloud Associate Cloud Engineer (GCP ACE)
 
-<!-- ![Logo cerificación GCP ACE](./cert_logo.png)   -->
-<img src="cert_logo.png"
-     alt="Logo cerificación GCP ACE"
+
+<img src="https://github.com/Ardark27/Google-Cloud-Associate-Cloud-Engineer-Path/blob/main/cert_logo.png?raw=true"
+     alt="Logo certificación GCP ACE"
      style="float: centered; margin-right: 10px;"
      width="25%" height="25%" />
 
@@ -71,7 +71,7 @@ El examen lo hemos hecho en inglés, por lo que todos los recursos son puramente
 
 ### Associate Cloud Engineer Certification Learning Path
 
-<img src="cert_path.png"
+<img src="https://github.com/Ardark27/Google-Cloud-Associate-Cloud-Engineer-Path/blob/main/cert_path.png?raw=true"
      alt="GCP Associate Learning Path"
      style="float: centered; margin-right: 10px;"
      width="90%" height="90%" />
@@ -90,7 +90,7 @@ Se puede hacer de forma gratuita, pero recomendamos hacerte la cuenta de partner
 
 ### Exam Topics
 
-<img src="exam_topics.jpg"
+<img src="https://github.com/Ardark27/Google-Cloud-Associate-Cloud-Engineer-Path/blob/main/exam_topics.jpg?raw=true"
      alt="Logo cerificación GCP ACE"
      style="float: centered; margin-right: 10px;"
      width="15%" height="15%" />
