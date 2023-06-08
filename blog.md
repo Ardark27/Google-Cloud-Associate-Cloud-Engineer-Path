@@ -1,4 +1,4 @@
-# Nuestro camino hacia Google Cloud Associate Cloud Engineer (GCP ACE)
+# Despegando en la nube: Cómo obtener con éxito el Certificado Associate Cloud Engineer de Google
 
 <img src="https://github.com/Ardark27/Google-Cloud-Associate-Cloud-Engineer-Path/blob/main/cert_logo.png?raw=true"
      alt="Logo certificación GCP ACE"
